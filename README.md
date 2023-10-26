@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+Am Ryan Giggs...
+An aspiring front-end Web developer ...
+I’m currently learning HTML and CSS at a beginner level ...
+JS your Next😁
 <!--
 **rayann18/rayann18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
