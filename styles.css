@@ -1,0 +1,18 @@
+section h1{
+  text-align: center;
+  
+}
+
+body{
+  background-color: rgb(52, 158, 52);
+}
+.Aboutme-button{
+  color: white;
+  background-color: rgb(52, 158, 52); 
+  font-weight: 600;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 4px;
+  margin-left: 12px;
+  margin-right: 12px;
+}
