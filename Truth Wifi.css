@@ -1,0 +1,114 @@
+*{
+  padding: 0;
+  margin: 0;
+
+}
+
+.container3{
+  margin: 0;
+  color: black;
+  background-color: rgb(204, 0, 204);
+  color: #fff;
+  font-family: sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  padding: 20px;
+  }
+
+.Signin-button{
+background-color: rgb(0, 0, 250);
+border-style: solid;
+margin-bottom: 15px;
+  margin-top: 15px;
+  padding-right: 110px;
+  padding-top: 10px;
+  border-radius: 26px;
+  padding-left: 110px;
+  font-size: 20px;
+  padding-bottom: 10px;
+  cursor: pointer;
+  transition: background-color 0.15,0.15;
+  margin: auto;
+  margin-left: 280px;
+  margin-right: 300px;
+
+}
+.Signin-button:hover{
+background-color:rgb(41, 118, 221) ;
+color : white;
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+.Signin-button:active{
+opacity: 0.7;
+}
+
+
+
+.Register-button{
+background-color: red;
+margin-bottom: 15px;
+  margin-top: 15px;
+  padding-right: 110px;
+  padding-top: 10px;
+  border-radius: 26px;
+  padding-left: 110px;
+  font-size: 20px;
+  padding-bottom: 10px;
+  cursor: pointer;
+  transition: background-color 0.15,0.15;
+  margin: auto;
+  margin-right: 190px;
+  
+
+}
+
+.Register-button:hover{
+opacity: 0.8;
+}
+.Register-button:active{
+opacity: 0.5;
+}
+
+
+.Callus-button{
+background-color: rgb(66, 167, 66);
+border-style: solid;
+margin-bottom: 50px;
+  margin-top: 15px;
+  padding-right: 110px;
+  padding-top: 10px;
+  border-radius: 26px;
+  padding-left: 110px;
+  font-size: 20px;
+  padding-bottom: 10px;
+  cursor: pointer;
+  transition: background-color 0.15,0.15;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  
+  
+}
+
+.container{
+  color:rgb(255, 255, 255);
+  text-align: center;
+  text-decoration: solid;
+  text-decoration-color: blue;
+  cursor: pointer;
+  text-underline-position: below;
+  margin-bottom: 20px;
+  margin-top: 40px;
+}
+
+.container2{
+  color:rgb(255, 255, 255);
+  text-align: center;
+  text-decoration: solid;
+  text-decoration-color: blue;
+  cursor: pointer;
+  text-underline-position: below;
+  margin-bottom: 70px;
+}
+

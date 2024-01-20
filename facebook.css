@@ -1,0 +1,93 @@
+body {
+  background-color: rgb(116, 130, 143);
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container1 {
+  display: grid;
+  place-content: center;
+  
+  color: white;
+  border: none;
+  border-radius: 18px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+  margin: 8px;
+  transition: box-shadow 0.15s;
+  vertical-align: top;
+  padding: 9px 16px;
+}
+
+h1 {
+  text-align: center;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 12px;
+  box-sizing: border-box;
+}
+
+.login-button {
+  background-color: rgb(29, 155, 240);
+  color: white;
+  border: none;
+  border-radius: 18px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+  margin: 8px;
+  transition: box-shadow 0.15s;
+  vertical-align: top;
+  padding: 9px 16px;
+  display: block;
+  width: 100%;
+}
+
+.login-button:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+p {
+  text-align: center;
+  margin-top: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+hr {
+  margin: 20px 0;
+  border: 0;
+  border-top: 1px solid white;
+}
+
+.create-account-button {
+  background-color: transparent;
+  color: white;
+  border: 1px solid white;
+  border-radius: 18px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+  margin: 8px;
+  transition: background-color 0.15s;
+  vertical-align: top;
+  padding: 9px 16px;
+  display: block;
+  width: 100%;
+}
+
+.create-account-button:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}

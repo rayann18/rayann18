@@ -1,0 +1,114 @@
+*{
+  display: grid;
+  place-items: center;
+}
+
+
+Header{
+  margin: 0;
+  color: black;
+  background-color: rgb(204, 0, 204);
+  color: #fff;
+  font-family: sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  padding: 20px;
+}
+.Register-button{
+  display: block;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  border-radius: 26px;
+  padding-top:10px;
+  padding-bottom: 10px;
+  padding-right: 40px;
+  padding-left: 40px;
+  border-style: solid;
+  cursor: pointer;
+  transition: background-color 0.15,0.15;
+  background-color: whitesmoke;
+  color: black;
+
+}
+.Register-button:hover{
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+  background-color: greenyellow;
+  color: black;
+  opacity: 0.8;
+}
+.Register-button:active{
+  color: whitesmoke;
+  opacity: 0.5; 
+}
+
+
+.Username-bar{
+  display: block;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  border-radius: 5px;
+  padding-top:10px;
+  padding-bottom: 10px;
+  padding-right: 110px;
+  border-style: solid;
+  
+}
+
+.Password-bar{
+  display: block;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  border-radius: 5px;
+  border-style: solid;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 110px;
+  
+}
+
+.Signin-button{
+  background-color: yellow;
+  color: black;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  padding-right: 110px;
+  padding-top: 10px;
+  border-radius: 26px;
+  padding-left: 110px;
+  font-size: 20px;
+  padding-bottom: 10px;
+  cursor: pointer;
+  transition: background-color 0.15,0.15;
+}
+
+.Signin-button:hover{
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+  background-color: rgb(2, 2, 10);
+  color: rgb(219, 52, 75);
+  opacity: 0.8;
+}
+
+.Signin-button:active{
+  color: palevioletred;
+  opacity: 0.5;
+}
+
+.container{
+  color:rgb(255, 255, 255);
+  text-align: justify;
+  text-decoration: solid;
+  text-decoration-color: blue;
+  cursor: pointer;
+  text-underline-position: below;
+}
+.Wrapper{
+  text-align: center;
+}
+.registration-form{
+  width: 300px;
+  margin: 0 auto;
+}
+
+
+
+

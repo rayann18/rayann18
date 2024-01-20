@@ -1,0 +1,101 @@
+.body{
+  font-family: Arial,  sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: lightskyblue;
+}
+
+.wrapper{
+  display: flex;
+  justify-content: center;
+}
+.form-wrapper{
+  width: 300px;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+ .sign in{
+  background-color: #f0f8ff;
+ }
+
+ .sign in h2{
+  text-align: center;
+  margin-bottom: 20px;
+ }
+
+ .sign in .input-group{
+margin-bottom: 10px;
+ }
+ .sign in .input-group  label{
+  display: block;
+  margin-bottom: 5px;
+ }
+
+ .sign in .input-group input{
+  padding: 5px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  width: 100%;
+ }
+ .sign in .remember label{
+  font-weight: lighter;
+ }
+ .sign in button{
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  margin-top: 10px;
+ }
+ .sign in button:hover{
+  background-color: #444;
+ }
+ .sign in .signup-link{
+  text-align: center;
+  margin-top: 20px;
+ }
+ .sign up{
+  background-color: #f5f5f5;
+  margin-top: 20px;
+ }
+ .sign up h2{
+  text-align: center;
+  margin-bottom: 20px;
+
+ }
+
+ .sign up .input-group{
+  margin-bottom: 10px;
+ }
+ .sign up .input-group label{
+  display: block;
+  margin-bottom: 5px;
+ }
+.sign up .input-group input{
+  padding: 5px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  width: 100%;
+}
+.sign up .remember label{
+  font-weight: lighter;
+}
+.sign up button{
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+.sign up button:hover{
+  background-color: #444;
+}
+.sign up .signup-link{
+  text-align: center;
+  margin-top: 20px;
+}

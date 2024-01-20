@@ -1,0 +1,117 @@
+
+
+.Firstname-bar{
+  display: block;
+  margin-bottom: 30px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  
+}
+
+.Secondname-bar{
+  display: block;
+  margin-bottom: 30px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.email-bar{
+  display: inline-block;
+   border-radius:6px ;
+   padding-top: 4px;
+   margin-top: 30px;
+   margin-bottom: 30px;
+   padding-top: 5px;
+  padding-bottom: 5px;
+   
+}
+
+.Username-bar{
+  display: block;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: red;
+}
+
+.Password-bar{
+  display: block;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: red;
+}
+
+.Confirmpassword-bar{
+  display: block;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: red;
+}
+
+.Login-button{
+  background-color: rgb(8, 226, 44);
+  margin-top: 16px;
+  padding-top: 5px;
+  padding-right: 70px;
+  border-radius: 6px;
+  color: white;
+  padding-left: 70px;
+  font-size: 15px;
+  padding-bottom: 5px;
+  cursor: pointer;
+  transition: background-color 0.15,0.15;
+
+}
+
+.Login-button:hover{
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+  background-color: greenyellow;
+  color: black;
+  opacity: 0.8;
+}
+
+.Login-button:active{
+ color: whitesmoke;
+  opacity: 0.5; 
+}
+
+.Signup-button{
+  background-color: rgb(3, 123, 202);
+  margin-top: 16px;
+  padding-top: 5px;
+  padding-right: 70px;
+  border-radius: 6px;
+  color: white;
+  padding-left: 70px;
+  font-size: 15px;
+  padding-bottom: 5px;
+  cursor: pointer;
+  transition: background-color 0.15,0.15;
+}
+
+.Signup-button:hover{
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+  background-color: rgb(2, 2, 10);
+  color: rgb(219, 52, 75);
+  opacity: 0.8;
+}
+
+.Signup-button:active{
+  color: palevioletred;
+  opacity: 0.5;
+}
+.container{
+  color: red;
+  text-align: center;
+  text-decoration: solid;
+  text-decoration-color: blue;
+  cursor: pointer;
+  text-underline-position: below;
+}
+
+
